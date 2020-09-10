@@ -4,7 +4,7 @@ import { Nav, NavDropdown, Navbar, Container } from 'react-bootstrap'
 export default function Navigation() {
   return(
     <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
-      <Navbar.Brand href="#home">
+      <Navbar.Brand href="/">
         <img
           alt="DUVegSoc Logo"
           src="/images/logo.png"
@@ -16,7 +16,11 @@ export default function Navigation() {
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/Blog">Blog</Nav.Link>
+          <Nav.Link>
+            <Link href="/blog">
+              Blog
+            </Link>
+          </Nav.Link>
         </Nav>
         <Nav>
           <Nav.Link target="_blank" href="https://www.facebook.com/durhamvegsoc/">
