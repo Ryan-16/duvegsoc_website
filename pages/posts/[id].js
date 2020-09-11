@@ -15,6 +15,7 @@ export default function Blog({ postData }) {
         <Container>
         <article>
           <h1>{postData.title}</h1>
+          <h2>{postData.author}</h2>
           <div>
             <Date dateString={postData.date} />
           </div>
