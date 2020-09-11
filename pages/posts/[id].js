@@ -1,8 +1,9 @@
 import Layout from '../../components/layout.js'
-import { Card, Carousel, Container } from 'react-bootstrap'
+import { Container } from 'react-bootstrap'
 import Head from 'next/head'
 import Date from '../../components/date'
 import { getAllPostIds, getPostData } from '../../lib/posts'
+import Link from 'next/link'
 
 export default function Blog({ postData }) {
   return (
@@ -19,6 +20,9 @@ export default function Blog({ postData }) {
           </div>
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
         </article>
+        <Link href="/blog">
+            <a>← Back to Blogs</a>
+          </Link>
         </Container>
       </Layout>
     </div>
