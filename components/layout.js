@@ -1,9 +1,9 @@
 import Head from 'next/head'
 import Navigation from '../components/navigation'
 
-export default function Layout({ children, home }) {
+export default function Layout({ children }) {
   return (
-    <div>
+    <div id="bootstrap-overrides">
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
