@@ -87,3 +87,16 @@ svg:hover {
 #nav-text:hover {
   color: #2c9846;
 }
+
+.blog-card {
+  padding: 10px;
+  margin: 10px;
+}
+
+.rounded {
+  border-radius:1rem!important
+}
+
+#emoji {
+  font-size: 1.5rem;
+}

@@ -1,5 +1,5 @@
 import Layout from '../components/layout.js'
-import { Container } from 'react-bootstrap'
+import { Card, Container } from 'react-bootstrap'
 import Head from 'next/head'
 import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
@@ -13,26 +13,29 @@ export default function Blog({ allPostsData }) {
           <title>DUVegSoc - Blog</title>
         </Head>
         <Container>
-          <h1>Blog</h1>
-          <section>
-          <ul>
+          <h1 className="text-center">Blog</h1>
+          <section className="pt-5">
             {allPostsData.map(({ id, date, title, author, emoji }) => (
-            <li key={id}>
-              <h2>
-                <Link href="/blog/[id]" as={`/blog/${id}`}>
-                  <a>{emoji + title}</a>
-                </Link>
-              </h2>
-              <h4>
-                <Date dateString={date} />
-              </h4>
-              <h5>
-                {author}
-              </h5>
-            </li>   
-          ))}
-          </ul>
-        </section>
+              <Link href="/blog/[id]" as={`/blog/${id}`}>
+                <a>
+                  <Card className="blog-card shadow p-3 mb-5 bg-white rounded">
+                    <h2>
+                      {title}
+                    </h2>
+                    <h4>
+                      <Date dateString={date} />
+                    </h4>
+                    <h5>
+                      {author} 
+                      <span className="float-right" id="emoji">
+                        {emoji}
+                      </span>
+                    </h5>
+                  </Card>
+                </a>
+              </Link>
+            ))}
+          </section>
         </Container>
       </Layout>
     </div>
