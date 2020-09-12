@@ -14,7 +14,7 @@ export default function Blog({ allPostsData }) {
         </Head>
         <Container>
           <h1 className="text-center">Blog</h1>
-          <section className="pt-5">
+          <section className="pt-5 pl-1">
             {allPostsData.map(({ id, date, title, author, emoji }) => (
               <Link href="/blog/[id]" as={`/blog/${id}`}>
                 <a>
