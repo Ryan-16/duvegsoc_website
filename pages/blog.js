@@ -25,8 +25,10 @@ export default function Blog({ allPostsData }) {
               </h2>
               <h4>
                 <Date dateString={date} />
-                {' - ' + author}
               </h4>
+              <h5>
+                {author}
+              </h5>
             </li>   
           ))}
           </ul>
