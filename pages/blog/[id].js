@@ -15,10 +15,10 @@ export default function Blog({ postData }) {
         <Container>
         <article>
           <h1>{postData.title}</h1>
-          <h2>{postData.author}</h2>
-          <div>
+          <h4>
             <Date dateString={postData.date} />
-          </div>
+          </h4>
+          <h5>{postData.author}</h5>
           <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
         </article>
         <Link href="/blog">

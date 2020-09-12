@@ -18,6 +18,7 @@ a {
 
 #bootstrap-overrides h1 {
   font-weight: 500;
+  color:#1a5b2a;
 }
 
 #bootstrap-overrides h2 {
@@ -30,4 +31,8 @@ a {
 
 #bootstrap-overrides h4 {
   font-weight: 200;
+}
+
+#bootstrap-overrides h5 {
+  font-weight: 500;
 }

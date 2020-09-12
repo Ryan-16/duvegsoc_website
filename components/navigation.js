@@ -3,7 +3,7 @@ import { Nav, NavDropdown, Navbar, Container } from 'react-bootstrap'
 
 export default function Navigation() {
   return(
-    <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
+    <Navbar collapseOnSelect expand="lg" id="navbar">
       <Container>
         <Link href="/">
         <Navbar.Brand href="/">

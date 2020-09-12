@@ -16,16 +16,17 @@ export default function Blog({ allPostsData }) {
           <h1>Blog</h1>
           <section>
           <ul>
-            {allPostsData.map(({ id, date, title, author }) => (
+            {allPostsData.map(({ id, date, title, author, emoji }) => (
             <li key={id}>
-              <Link href="/blog/[id]" as={`/blog/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              <small>
+              <h2>
+                <Link href="/blog/[id]" as={`/blog/${id}`}>
+                  <a>{emoji + title}</a>
+                </Link>
+              </h2>
+              <h4>
                 <Date dateString={date} />
                 {' - ' + author}
-              </small>
+              </h4>
             </li>   
           ))}
           </ul>
