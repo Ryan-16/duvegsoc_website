@@ -6,12 +6,12 @@ export default function Navigation() {
     <Navbar collapseOnSelect expand="lg" className="shadow p-3 mb-5 bg-white rounded">
       <Container>
         <Link href="/">
-        <Navbar.Brand id="nav-text" href="/">
+        <Navbar.Brand id="nav-text-title" href="/">
           <img
             alt="DUVegSoc Logo"
             src="/images/logo.png"
-            width="100"
-            height="100"
+            width="75"
+            height="75"
           />{' '}
           DU VegSoc
         </Navbar.Brand>

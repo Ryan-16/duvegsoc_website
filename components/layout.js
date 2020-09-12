@@ -3,7 +3,7 @@ import Navigation from '../components/navigation'
 
 export default function Layout({ children }) {
   return (
-    <div id="bootstrap-overrides">
+    <div className="d-flex flex-column min-vh-100" id="bootstrap-overrides">
       <Head>
         <link rel="icon" href="/favicon.ico" />
         <meta
@@ -13,7 +13,7 @@ export default function Layout({ children }) {
       </Head>
       <Navigation />
       <main>{children}</main>
-      <footer className="d-flex justify-content-center fixed-bottom">
+      <footer className="d-flex justify-content-center mt-auto">
         <a className="m-3" target="_blank" href="https://www.facebook.com/durhamvegsoc/">
           <svg 
             xmlns="http://www.w3.org/2000/svg"

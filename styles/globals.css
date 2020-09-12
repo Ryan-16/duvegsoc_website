@@ -68,9 +68,19 @@ svg:hover {
   object-fit: cover;
 }
 
+#nav-text-title {
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: #1a5b2a;
+}
+
+#nav-text-title:hover {
+  color: #2c9846;
+}
+
 #nav-text {
   font-weight: 500;
-  font-size: 2rem;
+  font-size: 1.2rem;
   color: #1a5b2a;
 }
 
