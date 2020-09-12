@@ -13,17 +13,17 @@ export default function Blog({ postData }) {
           <title>{postData.title}</title>
         </Head>
         <Container>
-        <article>
-          <h1>{postData.title}</h1>
-          <h4>
-            <Date dateString={postData.date} />
-          </h4>
-          <h5>{postData.author}</h5>
-          <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-        </article>
-        <Link href="/blog">
-            <a>← Back to Blogs</a>
-          </Link>
+          <article>
+            <h1>{postData.title}</h1>
+            <h4>
+              <Date dateString={postData.date} />
+            </h4>
+            <h5>{postData.author}</h5>
+            <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+          </article>
+          <Link href="/blog">
+              <a>← Back to Blogs</a>
+            </Link>
         </Container>
       </Layout>
     </div>
