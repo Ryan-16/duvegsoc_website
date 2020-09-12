@@ -8,7 +8,7 @@ export default function Layout({ children }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Durham University Vegetarian and Vegan Society Website"
+          content="Durham University Vegetarian and Vegan Society"
         />
       </Head>
       <Navigation />
