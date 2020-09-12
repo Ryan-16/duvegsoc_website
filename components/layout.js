@@ -8,8 +8,11 @@ export default function Layout({ children }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Durham University Vegetarian and Vegan Society"
+          content="Durham University Vegetarian and Vegan Society's Blog"
         />
+        <meta property="og:title" content="Durham University Vegetarian and Vegan Society" key="title" />
+        <meta property="og:description" content="Durham University Vegetarian and Vegan Society's Blog" key="description" />
+
       </Head>
       <Navigation />
       <main>{children}</main>
