@@ -6,7 +6,7 @@ export default function Navigation() {
     <Navbar collapseOnSelect expand="lg" className="shadow p-3 mb-5 bg-white rounded">
       <Container>
         <Link href="/">
-        <Navbar.Brand href="/">
+        <Navbar.Brand id="nav-text" href="/">
           <img
             alt="DUVegSoc Logo"
             src="/images/logo.png"
@@ -16,9 +16,9 @@ export default function Navigation() {
           DU VegSoc
         </Navbar.Brand>
         </Link>
-          <Nav>
-            <Nav.Link>
-              <Link href="/blog">
+          <Nav id="nav-text" >
+            <Nav.Link id="nav-text" >
+              <Link id="nav-text" href="/blog">
                 Blog
               </Link>
             </Nav.Link>

@@ -12,12 +12,25 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #2c9846;
+  text-decoration: none;
+}
+
 * {
   box-sizing: border-box;
 }
 
 main {
   margin: 5%;
+}
+
+svg {
+  fill: #1a5b2a;
+}
+
+svg:hover {
+  fill: #2c9846;
 }
 
 #bootstrap-overrides h1 {
@@ -53,4 +66,14 @@ main {
 .slide-img {
   height: 100%;
   object-fit: cover;
+}
+
+#nav-text {
+  font-weight: 500;
+  font-size: 2rem;
+  color: #1a5b2a;
+}
+
+#nav-text:hover {
+  color: #2c9846;
 }
