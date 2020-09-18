@@ -17,7 +17,7 @@ export default function Layout({ children }) {
       <Navigation />
       <main>{children}</main>
       <footer className="d-flex justify-content-center mt-auto">
-        <a className="ml-3 mr-3 mb-3" target="_blank" href="https://www.facebook.com/durhamvegsoc/">
+        <a className="m-3" target="_blank" href="https://www.facebook.com/durhamvegsoc/">
           <svg 
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -30,7 +30,7 @@ export default function Layout({ children }) {
           </svg>
         </a>
 
-        <a className="ml-3 mr-3 mb-3" target="_blank" href="https://www.instagram.com/durhamvegsoc/">
+        <a className="m-3" target="_blank" href="https://www.instagram.com/durhamvegsoc/">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
@@ -43,7 +43,7 @@ export default function Layout({ children }) {
           </svg>
         </a>
 
-        <a className="ml-3 mr-3 mb-3" target="_blank" href="https://www.strava.com/clubs/DUVVS">
+        <a className="m-3" target="_blank" href="https://www.strava.com/clubs/DUVVS">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
