@@ -100,3 +100,12 @@ svg:hover {
 #emoji {
   font-size: 1.5rem;
 }
+
+.fb-cal {
+  border:none;
+  overflow:hidden;
+  margin: 0 auto;
+  display: block;
+  min-width: 340px;
+  min-height: 199px;
+}

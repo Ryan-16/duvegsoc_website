@@ -49,6 +49,13 @@ export default function Home() {
               />
             </Carousel.Item>
           </Carousel>
+          <iframe className="mt-5 text-center fb-cal"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdurhamvegsoc%2F&tabs=events&width=340&height=199&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" 
+            scrolling="no" 
+            frameborder="0" 
+            allowTransparency="true" 
+            allow="encrypted-media">
+          </iframe>
         </Container>
       </Layout>
     </div>
