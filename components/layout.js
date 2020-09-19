@@ -12,7 +12,8 @@ export default function Layout({ children }) {
         />
         <meta property="og:title" content="Durham University Vegetarian and Vegan Society" key="title" />
         <meta property="og:description" content="Durham University Vegetarian and Vegan Society's Blog" key="description" />
-
+        <div id="fb-root"></div>
+        <script async defer crossOrigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0" nonce="k6WLd6DH"></script>
       </Head>
       <Navigation />
       <main>{children}</main>
