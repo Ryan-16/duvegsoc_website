@@ -1,5 +1,5 @@
 import Layout from '../components/layout.js'
-import { Card, Carousel, Container } from 'react-bootstrap'
+import { Carousel, Container } from 'react-bootstrap'
 import Head from 'next/head'
 
 export default function Home() {
@@ -49,9 +49,13 @@ export default function Home() {
               />
             </Carousel.Item>
           </Carousel>
-          <div className="mt-5 text-center">
-            <div className="fb-page" data-href="https://www.facebook.com/durhamvegsoc/" data-tabs="events" data-width="500" data-height="" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/durhamvegsoc/" className="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/durhamvegsoc/">Durham University Vegetarian and Vegan Society</a></blockquote></div>
-        </div>
+          <iframe className="mt-5 text-center fb-cal"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fdurhamvegsoc%2F&tabs=events&width=340&height=199&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" 
+            scrolling="no" 
+            frameborder="0" 
+            allowTransparency="true" 
+            allow="encrypted-media">
+          </iframe>
         </Container>
       </Layout>
     </div>

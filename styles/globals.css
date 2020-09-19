@@ -66,7 +66,6 @@ svg:hover {
 .slide-img {
   height: 100%;
   object-fit: cover;
-  border-radius:1rem!important;
 }
 
 #nav-text-title {
@@ -95,9 +94,18 @@ svg:hover {
 }
 
 .rounded {
-  border-radius:1rem!important;
+  border-radius:1rem!important
 }
 
 #emoji {
   font-size: 1.5rem;
+}
+
+.fb-cal {
+  border:none;
+  overflow:hidden;
+  margin: 0 auto;
+  display: block;
+  min-width: 340px;
+  min-height: 199px;
 }
