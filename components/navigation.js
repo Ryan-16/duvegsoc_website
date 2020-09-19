@@ -16,13 +16,11 @@ export default function Navigation() {
           DU VegSoc
         </Navbar.Brand>
         </Link>
-          <Nav id="nav-text" >
-            <Nav.Link id="nav-text" >
-              <Link id="nav-text" href="/blog">
-                Blog
-              </Link>
-            </Nav.Link>
-          </Nav>
+        <Nav id="nav-text" >
+          <Link id="nav-text" href="/blog">
+            Blog
+          </Link>
+        </Nav>
       </Container>
     </Navbar>
     )
