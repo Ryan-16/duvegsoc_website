@@ -49,6 +49,11 @@ export default function Home() {
               />
             </Carousel.Item>
           </Carousel>
+          <h1 className="text-center pt-5 pb-3">Calendar</h1>
+          <img
+            className="d-block w-100 slide-img"
+            src="images/michelmas.png"
+          />
         </Container>
       </Layout>
     </div>
