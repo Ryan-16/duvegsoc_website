@@ -110,3 +110,20 @@ My favourite go to meal is (very basic) pasta with tomato and basil sauce.
 I hope to help spread more awareness and education about veganism and animal rights.
 #### What fruit or vegetable best describes your personality?
 Tangerine because it’s one of my favourite songs;)
+
+## Lydia Griffin - Campaigns and Outreach
+### 4th Year / Behavioural Science
+#### Why did you become veggie/vegan? 
+I first became veggie when I was 15/16 – but I didn’t really eat much meat before. I never really liked it and I always felt uneasy as I could never separate the piece of meat on my plate from an animal. I was then on/off vegan when I was 19/20 and I’ve been vegan now for a year! I’m definitely an ‘ethical’ or ‘moral’ vegan – I do it for the animals. I find it really hard to understand why the horrific treatment of farm animals is an accepted part of our society and felt like a hypocrite that my diet didn’t reflect my beliefs! This definitely sustains my veganism but as a by-product I now have a much healthier diet (I really enjoy cooking!) and I am aware of the environmental implications of my decisions! It is really great to know that my carbon footprint is reduced and that I lead an overall healthier lifestyle. 
+#### What was your family’s reaction when you first became veggie/vegan? 
+As I am from a countryside town, meat was an accepted part of my family’s diet growing up. I don’t think my family really understood my decision to go vegan, often referring to me being on a ‘high horse’ just because I didn’t want to contribute to the industry. I often got questioned/dragged into debates where I would have to defend my decision to be vegan, but as time has gone on my family are really accepting of my choice to be vegan and have even altered their diets to reduce meat and animal products! They understand now that it is a healthier lifestyle which is better for your heart and body, and have been really accommodating with my diet choices.
+#### What advice would you give to anyone starting out with veganism?
+Don’t kick yourself if you have something that isn’t vegan, or really fancy that pizza or chocolate. It is a strange transition that does take time, and you might not be vegan all the time. Anything is better than nothing and once you start making small changes to your diet you will realise how easy it is! 
+The alternatives out there are so great now that you actually have choice when you go out for a meal or go to the supermarkets! Also, it doesn’t have to be expensive. There is often a stereotype around vegan lifestyles that it is expensive and unaffordable, and sometimes the meat alternatives can be pricey, but supermarkets own brands are way more affordable and ‘vegetable meals’  are super cheap. 
+My friend once told me that being vegan is about minimizing cruelty as much as you can and sometimes you will have to take medications for mental illness, period products or other health conditions that were tested on animals or not vegan. This is okay. It doesn’t mean that you are not vegan. Veganism shouldn’t come at your own expense, it’s about navigating it all and maintaining a healthy, cruelty-free lifestyle.
+#### What is your favourite go-to meal? 
+Sweet potato and spinach curry! It is super easy and cheap to make, and you can bulk make it so you have plenty of portions to go at! I also add a dollop of peanut butter into the sauce that makes it extra creamy and tasty.
+#### What do you hope to achieve with VegSoc this year? 
+’m really excited about these blogs, to help show everyone who VegSoc are and help to improve our outreach! I hope to reduce the stigma around veganism and show how wholesome everyone in VegSoc are. I am also super excited to be the Durham rep for The Humane League and helping to further their campaigns to help improve the conditions of farm animals!
+#### What fruit or vegetable best describes your personality?
+A pepper because I took a buzzfeed quiz and I got a pepper so a pepper it is! 
