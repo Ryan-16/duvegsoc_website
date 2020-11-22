@@ -1,4 +1,4 @@
-# duvegsoc_website
+# duvegsoc-website
 A React (Next.js) serverless website, using static site generation to implement a blog.
 
 # Usage
