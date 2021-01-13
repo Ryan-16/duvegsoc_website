@@ -4,6 +4,8 @@ date: '2021-01-13'
 author: 'Max'
 ---
 
+<img src="../images/roasted-butternut-squash-curry.png" style="max-width:100%;"/>
+
 
 Serves: 6-8, depending on the size of the squashes
 
@@ -12,6 +14,7 @@ quickly developed into something more than a simple chickpea curry. By combining
 sweetness of the roasted squash and corn with the savoury pepper and spices, it creates an in-
 depth flavour that doesn’t need a huge amount of heat to be tasty, making it a curry that can
 be enjoyed by anyone, no matter how much spice they like.
+
 All of the spice measurements are fairly approximate and can be altered as you wish to
 change the flavour. If the squashes you use are particularly large, you may need to use more
 spice than indicated here.
