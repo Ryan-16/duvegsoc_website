@@ -4,7 +4,6 @@ date: '2021-01-13'
 author: 'Max'
 ---
 
-![](../images/roasted-butternut-squash-curry.png?raw=true)
 
 Serves: 6-8, depending on the size of the squashes
 
