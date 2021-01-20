@@ -22,7 +22,7 @@ To decorate:
 
 
 Method:
-1. Preheat the oven to 170C. Grease or line a loaf ti
+1. Preheat the oven to 170C. Grease or line a loaf tin.
 2. Mix the vegetable oil and sugar together in a large bowl. 
 3. Add in the lemon zest, flour, bicarbonate of soda, salt and milk. Beat together with a wooden spoon to combine. 
 4. Stir in the lemon juice.
