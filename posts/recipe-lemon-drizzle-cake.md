@@ -1,5 +1,5 @@
 ---
-title: 'Veganuary Recipe #3: Red Lentil Curry'
+title: 'Veganuary Recipe #5: Lemon Drizzle Cake'
 date: '2021-01-20'
 author: 'Melda - VegSoc Alumni (19/20 Campaigns & Outreach)'
 ---
