@@ -19,6 +19,7 @@ Tofu, a food made from curdled soy milk, has become a staple of many vegan and p
 ***Prepare your marinade.*** If you’ve bought plain tofu, marinating it is essential to making sure your desired flavour fully soaks in. There are hundreds of potential marinades out there, but let's start with two easy ones: 
 * ***For Asian or Asian inspired dishes:*** Soy sauce, rice vinegar, chilli flakes, ginger 
 * ***For Italian or Italian inspired dishes:*** Olive oil, lemon juice, basil, nutritional yeast, smoked paprika 
+
 Decide which marinade best suits the dish you have in mind. Feel free to experiment and play around with different flavours here. Then, chop your tofu into the desired shape and coat it in the marinade; leave for several hours. If you’re like me and often forget to plan this far ahead, thirty minutes will do in a pinch. I often use the leftover marinade as stir fry sauce or salad dressing depending on the flavours to cut down on food waste. 
 
 ***Decide on your desired texture.*** If you want a crispier tofu, it helps to toss the tofu in cornflour before cooking. I often do this if I’m using smoked tofu which I haven’t marinaded, tossing it in cornflour, smoked paprika, salt and pepper. You can also add garlic and onion powder, or any other combination depending on the desired taste. If you want a softer texture, feel free to skip this step. 
