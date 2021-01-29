@@ -1,8 +1,9 @@
 ---
 title: “Changes in a plant-based diet over the years”
 date: '2021-01-29'
-author: 'Charlie's Mum'
+author: 'Charlies Mum'
 ---
+
 Growing up in a household where you are the only vegetarian/vegan is not always easy, yet, compared to when I was a young child, I was born in 1976, it is something that is much easier to do today. There are far greater options, far greater support, and resources available and a lot more people following the same diet, so you and/or your parents can find someone to talk to. These changes, of course, did not happen overnight, they were gradual but most notably in the last 10/15 years vegetarianism and in particular veganism has become quite mainstream.
  
 I remember, as a vegetarian initially there was little option in supermarkets for vegetarian based foods and certainly not anything specifically labelled as vegan. In fact, I didn’t know there was even a category, I was simply a vegetarian that didn’t consume dairy. You could not so easily be that ‘junk-food’ vegan as you can now. Trying to get hold of plant-based milks, that was initially something that you might have had better luck locating at a health-food shop more than anything else. In fact, a lot of my products I did purchase at health shops, although more so, meals had to be made completely from scratch. Indian shops, if you were lucky to have one, was also a good place for products. However, being from a smaller town and not a large city, it really was not an option for me. Vegan cheese, egg replacer, plant-based butters, all the things that I am sure people often take for granted, were not an option in my youth and not for many years afterwards. I have frequently just had meals that consisted of potatoes and vegetables, the good old ‘meat and two veg’ that formed part of the standard English diet many years ago, without the meat of course.
