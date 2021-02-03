@@ -52,7 +52,7 @@ export default function Home() {
           <h1 className="text-center pt-5 pb-3">Calendar</h1>
           <img
             className="d-block w-100 slide-img"
-            src="images/january.jpg"
+            src="images/february.jpg"
           />
         </Container>
       </Layout>
